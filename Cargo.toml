@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "contracts/body", 
+  "contracts/item", 
+  "contracts/game",  
+]
+
+exclude = [ "lib/rmrk-ink" ]
